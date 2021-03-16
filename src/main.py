@@ -5,3 +5,4 @@ Base feature1
 feature_1.0_2
 feature_1.0_2
 some basic changes
+added base feature 1.1
