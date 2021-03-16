@@ -5,3 +5,4 @@ This is a word document file
 ## added requiremnets.txt
 srcabshxh
 Rel_1.0
+Base feature1
